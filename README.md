@@ -83,4 +83,4 @@ plt.show()
 ![download](https://github.com/user-attachments/assets/28effc1d-dfa1-40e1-b39f-d4acca333172)
 
 ## Result
-Thus the generated text image is eroded and dilated using python and OpenCV.
+Thus the generated image is eroded and dilated using python and OpenCV.
